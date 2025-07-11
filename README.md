@@ -2,7 +2,7 @@
 
 A visually aesthetic and interactive web application that allows users to convert distances between multiple units in real-time — built using **HTML, Tailwind CSS, and JavaScript**. 🚀
 
-![App Screenshot](./screenshot.png)
+![App Screenshot](./Distance-Converter/screenshot.png)
 
 ---
 
